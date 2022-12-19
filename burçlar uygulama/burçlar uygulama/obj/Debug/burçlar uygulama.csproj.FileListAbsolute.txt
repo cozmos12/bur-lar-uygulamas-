@@ -1,0 +1,94 @@
+C:\adr\burçlar uygulama\burçlar uygulama\bin\Debug\burçlar uygulama.exe.config
+C:\adr\burçlar uygulama\burçlar uygulama\bin\Debug\burçlar uygulama.exe
+C:\adr\burçlar uygulama\burçlar uygulama\bin\Debug\burçlar uygulama.pdb
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.csproj.AssemblyReference.cache
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form1.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Properties.Resources.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.csproj.GenerateResource.cache
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.csproj.CoreCompileInputs.cache
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.exe
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.pdb
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form2.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form9.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form3.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.koç_kadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.koç_erkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form4.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.boğaerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.boğakadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form5.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.ikizlererkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.ikizlerkadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form6.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yengeçerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yengeçkadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form7.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.aslankadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.aslanerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form8.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.başakerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.başakkadını.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.terazierkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.terazikadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form10.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.akreperkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.akrepkadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form11.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yaykadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yayerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form12.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.oğlakerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.oğlakkadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form13.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.kovaerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.kovakadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.balıkerkek.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.balıkkadın.resources
+C:\adr\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form14.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\bin\Debug\burçlar uygulama.exe.config
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\bin\Debug\burçlar uygulama.exe
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\bin\Debug\burçlar uygulama.pdb
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.csproj.AssemblyReference.cache
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.akreperkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.akrepkadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.aslanerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.aslankadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.balıkerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.balıkkadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.başakerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.başakkadını.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.boğaerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.boğakadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form1.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form10.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form11.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form12.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form13.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form14.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form2.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form3.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form4.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form5.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form6.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form7.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form8.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Form9.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.ikizlererkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.ikizlerkadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.kovaerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.kovakadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.koç_erkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.koç_kadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.oğlakerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.oğlakkadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.Properties.Resources.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.terazierkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.terazikadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yayerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yaykadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yengeçerkek.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar_uygulama.yengeçkadın.resources
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.csproj.GenerateResource.cache
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.csproj.CoreCompileInputs.cache
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.exe
+C:\Users\meki3\OneDrive\Masaüstü\uygulamalar\burçlar uygulama\burçlar uygulama\obj\Debug\burçlar uygulama.pdb
